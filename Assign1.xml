@@ -1,0 +1,81 @@
+<?xml version ="1.0" encoding ="UTF-8" ?>
+<?xml-stylesheet href ="style.css" type="text/css"  ?>
+<restaurant><resInfo>
+	<title > &quot;Life Of Pie&quot;</title>
+	
+	<address> 26, Eastbruck mall, Toronto </address>
+	
+	<phone>467878390</phone>
+	
+	<email/>
+	<discription>&apos;Our Family Meals are like the meals you would cook for your family if you had the time too. We surve fast food with fresh pies.&apos;</discription>	<otherInfo/>
+</resInfo>
+<menu><type>Savoury Pies Menu</type>
+ <food><pie id="p1" class="special1"> 
+<name>Curried Chicken Pie</name>
+<price>$8.95</price>
+<description>discription;
+A mild, flavourful curried chicken with onions, mango &amp; ginger
+</description>
+<calories>Calorie:550</calories></pie>
+<pie id="p2" class="special2">
+<name>Chicken Pot Pie</name>
+<price>$13.95</price>
+<description>
+discription;Traditional Chicken Pot Pie in a light creamy sauce with peas &amp; carrots
+</description>
+<calories>Calorie:1000</calories>
+</pie><pie id="p3" class="special3">
+<name>Fireside Beef Pie</name>
+<price>$8.95</price>
+<description>
+discription;Fitzroy Beef with grated onions, carrots, tomato &amp; spices
+</description>
+<calories>Calorie:940</calories></pie>
+<pie id="p4" class="special4">
+	<name>Vegetarian Curry Pie</name>
+<price>$10.95</price>
+<description>
+discription;A hot, spicy curry with cauliflower, peppers, zucchini &amp; carrots
+</description>
+<calories>Calorie:600</calories></pie>
+<pie id="p5" class="special5">
+
+
+	<name>Moroccan Lentil Pie</name>
+<price>$7.95</price>
+<description>
+discription;French Lentils with vegetables in a lightly spiced Moroccan Curry; vegetarian
+</description>
+<calories>Calorie:750</calories></pie>
+<pie id="p6" class="special6">
+	<name>Roasted Winter Vegetable Crisp Pie</name>
+<price>$10.95</price>
+<description>
+discription;Root vegetables roasted with apple cider in a cheddar sauce; available during the fall &amp; winter; vegetarian
+</description>
+<calories>Calorie:675</calories></pie>
+<pie id="p7" class="special7">
+	<name>Mediterranean Lamb Pie</name>
+<price>$11.95</price>
+<description>
+discription;A layer of caramelized onions topped with Ontario Lamb, feta cheese &amp; rosemary
+</description>
+<calories>Calorie:600</calories></pie>
+<pie id="p8" class="special8">
+	<name>Turkey Dinner Pie</name>
+<price>$10.95</price>
+<description>
+discription;A Turkey Dinner in a pie crust. A layer of Life of Pie Cranberry Sauce, followed by a layer of turkey, carrots and sweet potatoes in gravy, topped with a spiced bread crumb stuffing.  Seasonal – Thanksgiving, Christmas &amp; Easter
+</description>
+<calories>Calorie:800</calories></pie>
+<pie id="p9" class="special9">
+	<name>Beef and Kichesippi Ale Pie</name>
+<price>$9.00</price>
+<description>
+discription;Cubes of Ontario Angus Beef, carrots &amp; onions in a savoury gravy spiked with Kichesippi Ale
+</description>
+<calories>Calorie:900</calories></pie>
+
+</food></menu>
+</restaurant>

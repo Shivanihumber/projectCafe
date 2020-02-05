@@ -1,0 +1,25 @@
+restaurant{font-size:100%; margin:0.20em; font-family: Verdana;background-color:pink;color:purple;}
+resInfo{display:block;text-align:center;}
+title{font-size:200%; margin:0.40em; font-family: Harlow Solid Italic; color:purple;}
+menu {font-size:80%; margin:0.5em; font-family: Verdana; display:block}
+pie{display:block; border: 1px solid silver; margin:0.5em; padding:0.5em; background-color:whitesmoke;}
+name, price, description, calories {display:block}
+name {color:red; text-decoration: underline}
+price {color:green}
+ description {color:brown}
+calories {color:blue}
+title,address,phone,discription{display:block}
+type{font-size:100%; margin:0.20em; font-family: Verdana; color:brown;}
+
+pie#p4 {text-align:right}
+
+
+pie[class=special1] {background-color:Bisque }
+pie[class=special2] {background-color:Azure  }
+pie[class=special3] {background-color:lightorange }
+pie[class=special4] {background-color:AntiqueWhite  }
+pie[class=special5] {background-color:Wheat  }
+pie[class=special6] {background-color:LemonChiffon }
+pie[class=special7] {background-color:AliceBlue  }
+pie[class=special8] {background-color:Bisque }
+pie[class=special9] {background-color:PeachPuff }
